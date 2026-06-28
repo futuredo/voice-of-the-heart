@@ -1,6 +1,6 @@
-# Voice of the Heart
+# Voice of the Heart Pro Max - 基于 Mineradio 二次开发
 
-Voice of the Heart 是一款沉浸式音乐可视化播放器，把搜索、播放、歌单、歌词舞台、粒子视觉、封面视觉和桌面氛围整合到一个深色玻璃质感的音乐空间里。它从 Mineradio 的桌面体验演进而来，目标是让音乐不仅能被听见，也能被看见。
+Voice of the Heart Pro Max 是一款基于 Mineradio 二次开发的沉浸式音乐可视化播放器，把搜索、播放、歌单、歌词舞台、粒子视觉、封面视觉和桌面氛围整合到一个深色玻璃质感的音乐空间里。它从 Mineradio 的桌面体验演进而来，目标是让音乐不仅能被听见，也能被看见。
 
 当前公开版本：`v0.0.1`
 
